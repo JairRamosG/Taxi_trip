@@ -3,3 +3,6 @@ pyarrow
 scikit-learn    
 seaborn
 matplotlib
+mlflow
+hyperopt
+xgboost
