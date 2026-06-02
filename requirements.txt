@@ -6,3 +6,4 @@ matplotlib
 mlflow
 hyperopt
 xgboost
+psycopg2
